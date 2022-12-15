@@ -1,9 +1,9 @@
-### Manga Translator API
+## Manga Translator API
 
-#### Kurulum
+### Kurulum
 ```npm install``` yada ```yarn``` yeterlidir.
 
 Sonrasında ```npm run dev``` ile başlatılabilir.
 
-#### Hedef
+### Hedef
 ```node-tesseract-ocr``` kullanarak resimlerdeki metinleri yakalayıp onları türkçeye çevirip geri yazan bir API hedefleniyor.
