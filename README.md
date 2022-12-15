@@ -1,3 +1,9 @@
-#### API Amacı
+### Manga Translator API
 
-Bu API'ın amacı verilen sayfadaki tüm textleri okuyup belirtilen dile çevirip sayfadaki yerine geri yazmaktır.
+#### Kurulum
+```npm install``` yada ```yarn``` yeterlidir.
+
+Sonrasında ```npm run dev``` ile başlatılabilir.
+
+#### Hedef
+```node-tesseract-ocr``` kullanarak resimlerdeki metinleri yakalayıp onları türkçeye çevirip geri yazan bir API hedefleniyor.
